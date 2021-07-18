@@ -1,0 +1,19 @@
+{
+  "name": "csvtopptgenerator",
+  "version": "1.0.0",
+  "description": "A CSV to PPT generator example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "csv",
+    "ppt"
+  ],
+  "author": "Paul Jensen",
+  "license": "MIT",
+  "dependencies": {
+    "fast-csv": "^4.3.6",
+    "officegen": "^0.6.5"
+  }
+}
